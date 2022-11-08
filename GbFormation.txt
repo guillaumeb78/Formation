@@ -1,2 +1,4 @@
 Premiere ligne
-Autre ligne - conflit
+deuxième ligne
+Ajout d'une troisième ligne
+
