@@ -8,7 +8,7 @@ pipeline {
 			}
 		 post {
                 success {
-                    junit 'Formation/monappli-service/target/surefire-reports/*.xml'
+                    junit 'monappli-service/target/surefire-reports/*.xml'
                         }
                  }
                
